@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(83,24,43,0.76);
+    background-image: url("https://wallpaperplay.com/walls/full/0/3/1/190288.jpg");
+}
+.container{
+    background-color: azure;
+    height: 100%;
+    border-radius: 5%;
+    position: relative;
+    top: 7%;
+}
+img{
+   max-height: 400px;
+}
+.img-block{
+    height: 60%;
+    margin-top: 5%;
+}
+#top-title{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
